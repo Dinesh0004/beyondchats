@@ -1,0 +1,14 @@
+# Backend
+beyondchats-backend/target
+beyondchats-backend/.classpath
+beyondchats-backend/.project
+beyondchats-backend/.settings
+beyondchats-backend/src/main/resources/application.properties
+
+# Frontend
+beyondchats-frontend/node_modules
+beyondchats-frontend/dist
+
+# General
+.env
+*.log
